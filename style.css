@@ -1,0 +1,25 @@
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .container {
+        width: 560px;
+        height: 560px;
+        margin: 30px auto;
+        border: 1px solid black;
+    }
+    
+    .place {
+        width: 70px;
+        height: 70px;
+        float: left;
+    }
+    
+    .black {
+        background-color: black;
+    }
+    
+    .white {
+        background-color: #fff;
+    }
